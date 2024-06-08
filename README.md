@@ -14,5 +14,5 @@ Here are the tools and technologies I use in my development projects:
 - Reading books is my favourite thing to do.
 
 ## 📫 Contact
-For a quick response, DM me on [Linkedin](https://www.linkedin.com/in/anaswara-surendran/)
+For a quick response, DM me on [Linkedin](https://www.linkedin.com/in/anaswara-surendran/).
 
