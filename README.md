@@ -10,8 +10,9 @@ Here are the tools and technologies I use in my development projects:
 - Libraries: `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Seaborn` `OpenCV` `TensorFlow`
 
 ## ✨ Fun Facts
-- I love rain.
 - Reading books is my favourite thing to do.
+- I listen to true crime podcasts.
+- Butterflies are my most adored creatures.
 
 ## 📫 Contact
 For a quick response, DM me on [Linkedin](https://www.linkedin.com/in/anaswara-surendran/).
