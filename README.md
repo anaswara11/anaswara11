@@ -6,7 +6,7 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
 Here are the tools and technologies I use in my development projects:
 - Languages: `Java` `Python` `HTML` `CSS` `C/C++` `Postgres` `MySQL` `MongoDB` `JavaScript`
 - Frameworks: `React` `NodeJS` `Bootstrap`
-- Developer Tools: `Git` `Visual Studio` `Eclipse` `Google Cloud Platform` `Geany`
+- Developer Tools: `Git` `Visual Studio` `Eclipse` `Google Cloud Platform` `Geany` `Firebase`
 - Libraries: `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Seaborn` `OpenCV` `TensorFlow`
 
 ## ✨ Fun Facts
