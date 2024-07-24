@@ -10,7 +10,7 @@ Here are the tools and technologies I use in my development projects:
 - Libraries: `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Seaborn` `OpenCV` `TensorFlow`
 
 ## ✨ Fun Facts
-- Reading books is my favourite thing to do.
+- Reading is my favourite thing to do.
 - I listen to true crime podcasts.
 - Butterflies are my most adored creatures.
 
